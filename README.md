@@ -1,16 +1,18 @@
-> _Fork_ deze deeltaak en ga aan de slag. De instructie vind je in: [docs/INSTRUCTIONS.md](https://github.com/fdnd-task/all-human-wcag-audit/blob/main/docs/INSTRUCTIONS.md)
-
 # WCAG Audit 
 
-Doe een WCAG test op een bestaande website en rapporteer daarover.
+Bij deze opdracht doe ik een WCAG test op een bestaande website en rapporteer daarover.
 
-## Titel Website
+## UserR00T.com
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Ik heb de website van een vriend van mij getest, namelijk [UserR00T](https://userr00t.com/). 
 
-Toon een screenshot van het Lighthouse Accessibility testresultaat.
+Met een score van 92 op de Chrome Lighthouse is er zeker nog wat ruimte voor verbetering! <br>
 
-Schrijf een samenvatting van de testbevindingen.
+<img width="590" alt="275459506-cd0676cf-be1c-4e5b-8ae4-8f84d23bfb21" src="https://github.com/itsValyria/all-human-wcag-audit/assets/76444716/74fafc3b-984a-4ed0-848d-ab58108a14b4">
+
+Eigenlijk scored de site heel goed, het enige wat aangepast moet worden is misschien een net iets heftiger kleurcontrast, en een manier om met de screenreader te ondervinden wat de waarde is van de ''progress bars'' op zijn website.
+
+Wil je meer weten over de bevindingen die ik gedaan heb? Check dan de [Wiki](https://github.com/itsValyria/all-human-wcag-audit/wiki/%F0%9F%A7%AA--Testen/)!
 
 ## Licentie
 
